@@ -1,0 +1,56 @@
+h2{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+}
+/*sutro*/
+
+.S1{
+    background-color: aqua;
+    color: rgb(15, 131, 67);
+}
+.S2{background-color: blueviolet;
+    color: rgb(28, 39, 39);
+
+}
+.S3{
+    background-color: coral;
+    color: darkolivegreen;
+}
+.S4{
+    background-color: darksalmon;
+    color: fuchsia;
+}
+.S5{
+    background-color: lightblue;
+    color: mediumpurple;
+}
+.id{
+    width: 100%;
+}
+.id h1{
+    background-color: cornflowerblue;
+    display: inline-block;
+    padding: 10px;
+}
+.brack{
+  background-color: rgb(16, 175, 96);
+  text-align: center;
+  padding: 10px;
+  color: aliceblue;
+}
+.last{
+    background-color: chocolate;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.address{
+    background-color: aqua
+    ;
+    display: inline-block;
+    font-size: 17px;
+    padding: 10px;
+    margin: 10px 0px;
+
+}
